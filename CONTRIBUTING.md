@@ -9,6 +9,7 @@ If you haven't already, please take a look at [PcapPlusPlus web-site](https://pc
 If you find a bug, please don't hesitate to open a GiHub issue for it. Any bug report is highly welcome. In order for the bug to be solved as quickly as possible, please make sure to provide the following details:
 - Verify that the bug is easily reproducible, we can't do much with bugs we can't reproduce
 - A detailed explanation of the issue - what did you expect to happen vs. what really happened?
+- 
 - The operating system you're using, please include the OS version as well
 - If you can provide a pcap file or anything else that will help us to reproduce the bug / verify the fix, please do so
 - If you already looked at the code and found the root cause - that's great! You can either open a GitHub pull request (please see below how) or point us to the exact place in the code where you think the bug is
